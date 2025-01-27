@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/DEPI/FINAL%20PROJECT/MLflow/mlruns/875475344844130869/0b97047f3b5e4d9fa2be0298b4ce232b/artifacts
+end_time: 1728407173125
+entry_point_name: ''
+experiment_id: '875475344844130869'
+lifecycle_stage: active
+run_id: 0b97047f3b5e4d9fa2be0298b4ce232b
+run_name: learned-mouse-703
+run_uuid: 0b97047f3b5e4d9fa2be0298b4ce232b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728407164877
+status: 4
+tags: []
+user_id: ME

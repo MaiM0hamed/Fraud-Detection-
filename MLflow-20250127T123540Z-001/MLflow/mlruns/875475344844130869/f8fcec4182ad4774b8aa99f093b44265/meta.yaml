@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/DEPI/FINAL%20PROJECT/MLflow/mlruns/875475344844130869/f8fcec4182ad4774b8aa99f093b44265/artifacts
+end_time: 1728407085839
+entry_point_name: ''
+experiment_id: '875475344844130869'
+lifecycle_stage: active
+run_id: f8fcec4182ad4774b8aa99f093b44265
+run_name: receptive-ram-858
+run_uuid: f8fcec4182ad4774b8aa99f093b44265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728407065470
+status: 3
+tags: []
+user_id: ME
