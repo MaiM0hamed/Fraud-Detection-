@@ -66,7 +66,7 @@ MLFlow
 💻 Installation & Usage
 Clone the repository:
 
-git clone https://github.com/MAIKAMEL/Fraud-Detection.git
+git clone https://github.com/MaiM0hamed/Fraud-Detection-/tree/main?tab=readme-ov-file
 Install the required dependencies:
 
 pip install -r requirements.txt
